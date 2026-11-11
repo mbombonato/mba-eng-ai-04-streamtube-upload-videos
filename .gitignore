@@ -1,2 +1,6 @@
 .history/
 settings.local.json
+# Segredos
+.env
+.env.local
+!.env.example
